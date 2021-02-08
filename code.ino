@@ -1,5 +1,5 @@
 
-#需要修改key SSID password wol的mac地址 其它自己看
+//需要修改key SSID password wol的mac地址 其它自己看
 #define BLINKER_WIFI
 #include <WiFiUdp.h>
 
